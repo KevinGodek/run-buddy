@@ -1,4 +1,4 @@
-# run-buddy Inc.
+# run-buddy
 
 ##Purpose
 A website that offers fitness training services.
@@ -13,4 +13,4 @@ A website that offers fitness training services.
 ##Contribution
 Made with Love by Kevin Godek
 
-### 2019 Run Buddy, Inc
+# Run Buddy, Inc
